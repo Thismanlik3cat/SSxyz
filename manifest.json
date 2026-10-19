@@ -1,0 +1,26 @@
+{
+  "name": "Serversiding | Best Roblox Serverside Executor",
+  "short_name": "Serversiding",
+  "description": "Web-based Roblox serverside script executor. Run Lua scripts on the game server across 600+ Roblox games.",
+  "id": "/",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#ea580c",
+  "background_color": "#020104",
+  "icons": [
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "any"
+    },
+    {
+      "src": "/logo.svg",
+      "type": "image/svg+xml",
+      "sizes": "any",
+      "purpose": "maskable"
+    }
+  ]
+}
