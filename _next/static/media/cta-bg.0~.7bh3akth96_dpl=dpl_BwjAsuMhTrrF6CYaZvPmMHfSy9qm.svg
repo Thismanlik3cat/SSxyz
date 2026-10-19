@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 340" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <linearGradient id="ctaGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#fb923c"/>
+      <stop offset="55%" stop-color="#f97316"/>
+      <stop offset="100%" stop-color="#ea580c"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="340" fill="url(#ctaGrad)"/>
+  <polygon points="120,-12 280,80 280,260 120,352 -40,260 -40,80" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2.5"/>
+  <polygon points="1080,-12 1240,80 1240,260 1080,352 920,260 920,80" fill="#ffffff" fill-opacity="0.06" stroke="#ffffff" stroke-opacity="0.18" stroke-width="2.5"/>
+</svg>
